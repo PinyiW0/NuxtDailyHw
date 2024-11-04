@@ -1,0 +1,1 @@
+import{d as n,J as o,t as s,v as l,x as t,y as r,K as u}from"./D_YaH1vh.js";const c=n({__name:"index",setup(p){const a=o();return(f,e)=>(s(),l("div",null,[e[0]||(e[0]=t("h1",null,"Page: 首頁",-1)),t("p",null,"目前路由的路徑 - route.fullPath為 :"+r(u(a).fullPath),1)]))}});export{c as default};
