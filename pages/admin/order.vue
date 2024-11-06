@@ -1,12 +1,11 @@
 <script setup lang="ts">
-
 </script>
 
 <template>
   <div>
-    Page: admin/index
+    Page: admin/order
   </div>
-  <h1>後台首頁</h1>
+  <h1>後台訂單</h1>
 </template>
 
 <style scoped></style>

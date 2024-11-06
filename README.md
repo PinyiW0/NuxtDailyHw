@@ -4,6 +4,11 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
+## Node Version
+```bash
+20.10.0
+```
+
 Make sure to install dependencies:
 ## Git提交規範
   - feat 增加新功能
@@ -17,7 +22,7 @@ Make sure to install dependencies:
   - chore 配置檔修改
   - types 類型定義文件修改
   - wip 開發中尚未完成
-  
+
 ```bash
 # npm
 npm install
